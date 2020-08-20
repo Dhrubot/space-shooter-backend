@@ -9,6 +9,7 @@ https://github.com/Dhrubot/space-shooter-frontend
 ```
 clone this repo
 cd space-shooter-backend
+cd space-shooter
 run rails server
 
 ```
