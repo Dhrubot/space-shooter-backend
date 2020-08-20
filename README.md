@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello Everyone! Welcome to Space-shooter!
+This is a straight forward space shooting game where the task of user ship is to destroy all the enemy before they reach the earth. You need both the backend and the front end parts to be able to play the game locally.
 
-Things you may want to cover:
+Download the frontend part here 
+https://github.com/Dhrubot/space-shooter-frontend
 
-* Ruby version
+```
+clone this repo
+cd space-shooter-backend
+run rails server
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+Then go to the frontend part and follow the next instruction.
+Thank you for using my app and any contribution will be appreciated.
