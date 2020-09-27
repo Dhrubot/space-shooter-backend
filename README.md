@@ -14,4 +14,4 @@ run rails server
 
 ```
 Then go to the frontend part and follow the next instruction.
-Thank you for using my app and any contribution will be appreciated.
+Thank you for using my app and any contributions and suggestions will be appreciated.
